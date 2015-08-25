@@ -1,0 +1,3 @@
+SQLite3 doesn't support:
+Select into
+drop column (only a subset of alter table)
